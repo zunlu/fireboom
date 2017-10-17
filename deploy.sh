@@ -1,1 +1,1 @@
-mvn clean install -Dmaven.test.skip=true
+jar -jar target/ROOT.jar
