@@ -1,1 +1,1 @@
-jar -jar target/ROOT.jar
+java -jar target/ROOT.jar
